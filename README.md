@@ -1,15 +1,7 @@
 # ❌⭕ Tic-Tac-Toe (Web Version)
 
 A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Play as Player X and Player O in turns on a clean 3×3 board — right in your browser!
-
 ---
-
-## 🌐 Live Demo
-
-🎮 [Play the Game](https://Mudit23.github.io/tic-tac-toe-web/)  
-
----
-
 ## 📌 Features
 
 - ✅ Two-player game (X vs O)

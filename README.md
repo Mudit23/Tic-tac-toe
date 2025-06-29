@@ -6,8 +6,7 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 
 ## 🌐 Live Demo
 
-🎮 [Play the Game](https://yourusername.github.io/tic-tac-toe-web/)  
-*(Replace with your actual GitHub Pages link after deploying)*
+🎮 [Play the Game](https://Mudit23.github.io/tic-tac-toe-web/)  
 
 ---
 
